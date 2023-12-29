@@ -1,0 +1,10 @@
+{
+  "name": "Earthbound",
+  "description": "Music from the 1994 Nintendo Video Game, Earthbound. All music belong to Nintendo and they're respective owners. Music produced by Keiichi Suzuki and Hirokazu Tanaka.",
+  "author": "Civo1",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
